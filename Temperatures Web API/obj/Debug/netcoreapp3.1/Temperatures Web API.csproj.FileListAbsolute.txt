@@ -1,0 +1,21 @@
+C:\Users\Jose\source\repos\Temperatures Web API\Temperatures Web API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Jose\source\repos\Temperatures Web API\Temperatures Web API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Jose\source\repos\Temperatures Web API\Temperatures Web API\bin\Debug\netcoreapp3.1\Temperatures Web API.exe
+C:\Users\Jose\source\repos\Temperatures Web API\Temperatures Web API\bin\Debug\netcoreapp3.1\Temperatures Web API.deps.json
+C:\Users\Jose\source\repos\Temperatures Web API\Temperatures Web API\bin\Debug\netcoreapp3.1\Temperatures Web API.runtimeconfig.json
+C:\Users\Jose\source\repos\Temperatures Web API\Temperatures Web API\bin\Debug\netcoreapp3.1\Temperatures Web API.runtimeconfig.dev.json
+C:\Users\Jose\source\repos\Temperatures Web API\Temperatures Web API\bin\Debug\netcoreapp3.1\Temperatures Web API.dll
+C:\Users\Jose\source\repos\Temperatures Web API\Temperatures Web API\bin\Debug\netcoreapp3.1\Temperatures Web API.pdb
+C:\Users\Jose\source\repos\Temperatures Web API\Temperatures Web API\obj\Debug\netcoreapp3.1\Temperatures Web API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose\source\repos\Temperatures Web API\Temperatures Web API\obj\Debug\netcoreapp3.1\Temperatures Web API.AssemblyInfoInputs.cache
+C:\Users\Jose\source\repos\Temperatures Web API\Temperatures Web API\obj\Debug\netcoreapp3.1\Temperatures Web API.AssemblyInfo.cs
+C:\Users\Jose\source\repos\Temperatures Web API\Temperatures Web API\obj\Debug\netcoreapp3.1\Temperatures Web API.csproj.CoreCompileInputs.cache
+C:\Users\Jose\source\repos\Temperatures Web API\Temperatures Web API\obj\Debug\netcoreapp3.1\Temperatures Web API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jose\source\repos\Temperatures Web API\Temperatures Web API\obj\Debug\netcoreapp3.1\staticwebassets\Temperatures Web API.StaticWebAssets.Manifest.cache
+C:\Users\Jose\source\repos\Temperatures Web API\Temperatures Web API\obj\Debug\netcoreapp3.1\staticwebassets\Temperatures Web API.StaticWebAssets.xml
+C:\Users\Jose\source\repos\Temperatures Web API\Temperatures Web API\obj\Debug\netcoreapp3.1\scopedcss\bundle\Temperatures Web API.styles.css
+C:\Users\Jose\source\repos\Temperatures Web API\Temperatures Web API\obj\Debug\netcoreapp3.1\Temperatures Web API.RazorTargetAssemblyInfo.cache
+C:\Users\Jose\source\repos\Temperatures Web API\Temperatures Web API\obj\Debug\netcoreapp3.1\Temperatures Web API.dll
+C:\Users\Jose\source\repos\Temperatures Web API\Temperatures Web API\obj\Debug\netcoreapp3.1\Temperatures Web API.pdb
+C:\Users\Jose\source\repos\Temperatures Web API\Temperatures Web API\obj\Debug\netcoreapp3.1\Temperatures Web API.genruntimeconfig.cache
+C:\Users\Jose\source\repos\Temperatures Web API\Temperatures Web API\obj\Debug\netcoreapp3.1\Temperatures Web API.csproj.AssemblyReference.cache
